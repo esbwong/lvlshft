@@ -1,0 +1,2 @@
+GF12LP+ level shifter (0.8V-to-1.8V)
+- no reset so need to be careful with power sequence (i.e. if 0.8v not available before 1.8v, output is not well defined.)
